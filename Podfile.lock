@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.2.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - Commons (0.1)
+  - TTRangeSlider (1.0.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireImage (~> 3.2)
+  - Commons (from `https://github.com/mdermejian/Commons.git`)
+  - TTRangeSlider (~> 1.0)
+
+EXTERNAL SOURCES:
+  Commons:
+    :git: https://github.com/mdermejian/Commons.git
+
+CHECKOUT OPTIONS:
+  Commons:
+    :commit: 00a272cceff8cf96cb0bdcda689226ae71943533
+    :git: https://github.com/mdermejian/Commons.git
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  Commons: c259d06ad51295713f408d29273f252c8409d9ec
+  TTRangeSlider: 2f2ce4a33b32bb323c6575b9f5161c4664459c58
+
+PODFILE CHECKSUM: 748f9f8a29be159ab16c9535ee9d3530cb5812e7
+
+COCOAPODS: 1.2.0.beta.3

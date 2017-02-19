@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TheMovieDB
+
+  Created by Marc Dermejian on 15/02/2017.
+  Copyright © 2017 Marc Dermejian. All rights reserved.
+*/
+
+"Movie_Title" = "Movies";
+"Network_Error_Message_Title" = "Error";
+"Network_Error_Message_Body" = "Something went wrong :-(";
+"OK_Action" = "OK";
